@@ -1,5 +1,5 @@
-# FLIQ_Challenge_ClassiqDuQIS
-Team MerQury Submission
+# Team MerQury Submission
+
 # Classiq x DuQIS FLIQ Challenge
 Science track challenge for FLIQ 2025 hackathon
 
