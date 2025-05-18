@@ -1,4 +1,5 @@
 # Team MerQury Submission
+Please consider version 2 later, it is a secondary solution, just because we are not sure about that solution. 
 
 # Classiq x DuQIS FLIQ Challenge
 Science track challenge for FLIQ 2025 hackathon
