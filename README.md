@@ -1,4 +1,4 @@
-# 🧠 Team MerQury — Quantum Phase Classification
+# Quantum Phase Classification
 
 ## 🚀 FLIQ 2025 Hackathon Submission  
 **Track:** Science | **Challenge:** Classiq x DuQIS | **Hosted by:** Classiq Technologies & Duke Quantum Information Society
@@ -48,7 +48,7 @@ We developed a QML pipeline using **reduced density matrices** and a **parameter
 ├── phase_diagram.png                 # Reference for Rydberg phases
 ├── qprog.qprog                       # Saved quantum program
 └── trained_model_params.npz         # Optimized model parameters
-
+```
 
 
 ## 📊 Evaluation Metric
