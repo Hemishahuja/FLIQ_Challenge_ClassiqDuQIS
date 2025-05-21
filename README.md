@@ -1,7 +1,15 @@
 # Quantum Phase Classification
 
-## 🚀 FLIQ 2025 Hackathon Submission  
+## 🚀 FLIQ (Future Leaders in Quantum) 2025 Hackathon Submission  
 **Track:** Science | **Challenge:** Classiq x DuQIS | **Hosted by:** Classiq Technologies & Duke Quantum Information Society
+
+---
+
+## 🏆 Overview
+
+This repository contains our winning submission for the **FLIQ 2025 Classiq x DuQIS Quantum Machine Learning Challenge**, where we built a **Quantum Machine Learning (QML)** model to classify **quantum phases of matter** — specifically distinguishing between the **Z2** and **Z3** ordered phases in a **Rydberg atom chain**.
+
+> **Note**: Please consider `Version 2` as a secondary solution. It explores an alternate model but is less refined and should not be considered the primary solution.
 
 ---
 
