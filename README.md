@@ -22,7 +22,12 @@ Design a **Quantum Machine Learning (QML)** model to classify phases of quantum 
 - Constraint: Avoid reconstructing the full quantum state (no full $\rho$).
 
 ---
+## 🌀 Rydberg Atom Phase Diagram
 
+This phase diagram shows the regions corresponding to the different ordered quantum phases studied in this challenge (`Z2` and `Z3`).
+
+![Phase Diagram](phase_diagram.png)
+---
 ## 🧠 Our Solution
 
 We developed a QML pipeline using **reduced density matrices** and a **parameterized quantum circuit** trained to distinguish between the two phases.
