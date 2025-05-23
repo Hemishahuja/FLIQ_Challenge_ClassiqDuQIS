@@ -98,3 +98,6 @@ We optimized our model to **maximize accuracy** while keeping the number of para
 **Event:** [FLIQ 2025 Hackathon](https://www.quantumcoalition.io/fliq)  
 **Track:** Science — Classiq x DuQIS Quantum Phase Classification  
 **Submission:** Primary model in root, alternate version in `version_2/`
+
+## Challenge Statement
+https://github.com/dmitriikhitrin/Classiq-x-DuQIS-FLIQ-Challenge
